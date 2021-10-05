@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/libcloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/paramiko" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/run_script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker/nginx/static/novnc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/landing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui" vcs="Git" />
+  </component>
+</project>
